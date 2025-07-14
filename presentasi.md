@@ -67,7 +67,7 @@ graph LR
     B --> C[Eksekusi Cepat]
     C --> D[Efisiensi Tinggi]
     
-    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style A fill:#F87060,stroke:#333,stroke-width:4px
     style D fill:#0000CD,stroke:#333,stroke-width:4px
 ```
 
