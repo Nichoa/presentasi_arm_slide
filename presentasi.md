@@ -68,7 +68,7 @@ graph LR
     C --> D[Efisiensi Tinggi]
     
     style A fill:#f9f,stroke:#333,stroke-width:4px
-    style D fill:#9f9,stroke:#333,stroke-width:4px
+    style D fill:#0000CD,stroke:#333,stroke-width:4px
 ```
 
 </div>
