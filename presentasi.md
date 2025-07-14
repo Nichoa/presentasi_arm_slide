@@ -179,15 +179,6 @@ Status: UNPLAYABLE              Status: SMOOTH AF!
 | **Perlu Kipas?** | ❌ | ✅ | **Hemat lagi!** |
 
 </div>
-
-### 📱 Real User Experience
-
-> **"Sebelum pakai FQ-CoDel, main ML lag parah. Sekarang? Mythic Glory bro!"** - Gamer RT 05
-
-> **"Netflix sekarang bisa 4K, padahal bandwidth sama aja. Magic!" ** - Pengguna Premium
-
-> **"Zoom meeting gak putus lagi, boss senang, saya tenang."** - WFH Worker
-
 ---
 
 ## 💡 Kesimpulan
