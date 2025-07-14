@@ -1,4 +1,4 @@
-# 🚀 Analisis Kinerja Sistem Komputer MikroTik hEX 5G dengan Implementasi Algoritma FQ-CoDel dan PPPoE Server untuk Optimasi RT RW Net
+#  Analisis Kinerja Sistem Komputer MikroTik hEX 5G dengan Implementasi Algoritma FQ-CoDel dan PPPoE Server untuk Optimasi RT RW Net
 
 <div align="center">
 
@@ -14,29 +14,29 @@
 
 ---
 
-## 📋 Daftar Isi
+##  Daftar Isi
 
-1. [🎯 Pendahuluan](#-pendahuluan)
-2. [🔬 Tinjauan Teknologi](#-tinjauan-teknologi)
-3. [🛠️ Metodologi](#️-metodologi)
-4. [📊 Hasil dan Analisis](#-hasil-dan-analisis)
-5. [💡 Kesimpulan](#-kesimpulan)
-6. [🌱 Masa Depan adalah Efisiensi](#-masa-depan-adalah-efisiensi)
+1. [ Pendahuluan](#-pendahuluan)
+2. [ Tinjauan Teknologi](#-tinjauan-teknologi)
+3. [ Metodologi](#️-metodologi)
+4. [ Hasil dan Analisis](#-hasil-dan-analisis)
+5. [ Kesimpulan](#-kesimpulan)
+6. [ Masa Depan adalah Efisiensi](#-masa-depan-adalah-efisiensi)
 
 ---
 
-## 🎯 Pendahuluan
+##  Pendahuluan
 
-### 📌 Latar Belakang
+###  Latar Belakang
 
 > **Masalah Umum RT RW Net:**
-> - 🎮 Ping tinggi saat gaming (150-200ms)
-> - 📺 Video streaming sering buffering
-> - 📹 Video call putus-putus
+> -  Ping tinggi saat gaming (150-200ms)
+> -  Video streaming sering buffering
+> -  Video call putus-putus
 
 **Fakta Menarik:** Masalahnya bukan hardware ARM yang "lemah", tapi konfigurasi yang tidak optimal!
 
-### 🎪 Rumusan Masalah
+###  Rumusan Masalah
 
 <div align="center">
 
@@ -48,16 +48,16 @@
 
 </div>
 
-### 🏆 Tujuan Penelitian
+###  Tujuan Penelitian
 
 **Membuktikan bahwa:**
 > Kombinasi ARM + FQ-CoDel = Sistem Super Efisien dengan Kualitas Internet Premium
 
 ---
 
-## 🔬 Tinjauan Teknologi
+##  Tinjauan Teknologi
 
-### 🧠 ARM: Prosesor Cerdas untuk Tugas Spesifik
+###  ARM: Prosesor Cerdas untuk Tugas Spesifik
 
 <div align="center">
 
