@@ -80,9 +80,9 @@ graph LR
 | **Set Instruksi** | RISC (Sederhana) | CISC (Kompleks) | ✅ Perfect untuk operasi berulang |
 | **Konsumsi Daya** | 3.5W | 65W | ✅ 18x lebih hemat |
 | **Context Switch** | 2-3 cycles | 20+ cycles | ✅ 10x lebih cepat |
-| **Thermal Throttling** | ❌ Tidak ada | ⚠️ Sering terjadi | ✅ Performa konsisten 24/7 |
+| **Thermal Throttling** |  Tidak ada |  Sering terjadi | ✅ Performa konsisten 24/7 |
 
-### 🎯 FQ-CoDel: Algoritma Pintar Anti Bufferbloat
+###  FQ-CoDel: Algoritma Pintar Anti Bufferbloat
 
 <div align="center">
 
